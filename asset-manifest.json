@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/AutoParts/static/js/main.c9515ed6.js",
+    "static/js/488.1eaf9bff.chunk.js": "/AutoParts/static/js/488.1eaf9bff.chunk.js",
+    "index.html": "/AutoParts/index.html",
+    "main.c9515ed6.js.map": "/AutoParts/static/js/main.c9515ed6.js.map",
+    "488.1eaf9bff.chunk.js.map": "/AutoParts/static/js/488.1eaf9bff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c9515ed6.js"
+  ]
+}
